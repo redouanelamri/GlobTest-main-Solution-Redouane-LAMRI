@@ -1,0 +1,7 @@
+Question 1 :
+
+La fonction foo() prend une liste d'intervalles en entrée et renvoie une nouvelle liste où les intervalles qui se chevauchent sont fusionnés, tandis que les intervalles qui ne se chevauchent pas restent inchangés.
+
+Question 3 :
+
+Ca été accomplie en une vingtaine de minutes.
