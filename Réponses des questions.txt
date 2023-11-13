@@ -2,6 +2,10 @@ Question 1 :
 
 La fonction foo() prend une liste d'intervalles en entrée et renvoie une nouvelle liste où les intervalles qui se chevauchent sont fusionnés, tandis que les intervalles qui ne se chevauchent pas restent inchangés.
 
+Question 2 :
+
+Vous allez trouver le code source sur le fichier "merge_intervals.php" veuillez juste le télécharger et lancer votre CLI en tapant la commande "php merge_intervals.php" pour avoir le résultat qui sera [[1,10],[15,20]].
+
 Question 3 :
 
 Ca été accomplie en une vingtaine de minutes.
